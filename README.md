@@ -24,3 +24,9 @@ para problemas "una vez seguro; quizá mas"
 	_cuerpo de bucle_
 **_mientras_**( _predicado-permanencia-en-bucle_ )
 
+### ejemplos
+
+1. recorrer.c
+2. acumular.c
+3. buscar.c
+
